@@ -55,8 +55,11 @@ This project provides a secure, automated, and structured system for personalize
 
 ## Demo
 
-![Login Screen](images/Screenshot 2026-01-04 9.06.44 PM.png)
-![Dashboard / Expenses](images/Screenshot 2026-01-04 9.07.15 PM.png)
+**Login / Sign Up Screen:**  
+![Login](images/Screenshot%202026-01-04%209.06.44%20PM.png)
+
+**View Expenses / Dashboard:**  
+![Dashboard](images/Screenshot%202026-01-04%209.07.15%20PM.png)
 
 
 ---

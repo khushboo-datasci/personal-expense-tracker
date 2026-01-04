@@ -112,7 +112,7 @@ Exit – Graceful program termination
 
 Author
 
-Khushboo Singh
+Khushboo Kumari
 GitHub Profile
 
 

@@ -113,8 +113,7 @@ Exit – Graceful program termination
 Author
 
 Khushboo Kumari
-GitHub Profile
-
+(https://github.com/khushboo-datasci)
 
 ---
 

@@ -118,15 +118,7 @@ GitHub Profile
 
 ---
 
-### **Step 6: Next actions for you**
-1. Create `images/` folder in your repo root.
-2. Paste your screenshots in that folder (rename: `login.png`, `dashboard.png`, `monthly_summary.png`).
-3. Save this as `README.md` in repo root.
-4. Push everything to GitHub:
-```bash
-git add .
-git commit -m "Add final README with screenshots"
-git push
+
 
 
 
